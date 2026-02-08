@@ -33,7 +33,11 @@ The dataset includes:
  🔍 Key Insights
 - Revenue trends by month
 - Top-performing products
-- Store-wise performance comparison
+- Store-wise performance 
+
+Learning Referenece
+Codebasics (data analytics Bootcamp) 
+👉https://codebasics.io/
 
 📎 How to View the Project
 1. Download the `.pbix` file
